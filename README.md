@@ -1,4 +1,4 @@
-Today I've learned
+Today I learned
 ==============
-Repository for saving what I've learned today.
+Repository for saving what [I learned today](https://github.com/thoughtbot/til).
 
