@@ -1,6 +1,6 @@
 # Ethereum Casper and Proof-of-Stake
 
-[Ethereum](ethereum.org)은 합의 알고리즘의 업데이트를 예고하며, Ethereum Casper라고 불리는 새로운 프로토콜을 제시했다.
+[Ethereum](ethereum.org)은 합의 알고리즘의 업데이트를 예고하며, Ethereum Casper라고 불리는 새로운 프로토콜을 제시했다. 이는 [Ethereum Serenity](https://blog.ethereum.org/2015/12/24/understanding-serenity-part-i-abstraction/) 하드포크 이후부터 점차 적용될 예정이다.
 캐스퍼는 요약하면 기존 PoW 방식의 이더리움을 PoS 방식으로 전환하게 해주는 PoS 알고리즘이다. 캐스퍼가 무엇인지 자세히 알아보기 전에, PoW와 PoS가 뭔지부터 짚어보자.
 
 ## Proof-of-work (작업증명)
